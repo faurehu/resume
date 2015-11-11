@@ -1,1 +1,1 @@
-Resume host for *****resume.faure.hu**
+Resume host for **resume.faure.hu**
